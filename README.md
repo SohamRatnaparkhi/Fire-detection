@@ -1,3 +1,8 @@
+# About the Project
+
+This project is based on Deep Learning and is trained on 15000 images.
+It detects the presence of fire using the internal camera.
+
 # Contributing
 
 We love pull requests from everyone. By participating in this project, you
