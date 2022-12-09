@@ -2,6 +2,7 @@
 
 This project is based on Deep Learning and is trained on 15000 images.
 It detects the presence of fire using the internal camera.
+Run files present in MODEL folder
 
 # Contributing
 
